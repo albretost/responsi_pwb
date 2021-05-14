@@ -47,7 +47,7 @@ CREATE TABLE `pembeli` (
 /*Data for the table `pembeli` */
 
 insert  into `pembeli`(`id`,`nama`,`username`,`password`,`created_at`,`updated_at`) values 
-(12,'Albreto Suryanata Timbung','albretost','227465753f5f9c5788c4f1bde4fd871d1e795fd74f9a586eec06130a276be23fc563d5cddb3b4fac82468b9bbb0079681c69029c33b8b926fb0c8227cb90f8b3','2021-05-04 22:40:06','2021-05-04 22:40:06'),
+(12,'Albreto Suryanata Timbung','albretost','425099d1514a4084ea2b867c4effff46e8e2eab8baede8ae3b40eed9ddbf51c25b33a1c551d51e174d3593dce87d7a63eab3abc196eed075993bd6735e5e9893','2021-05-04 22:40:06','2021-05-04 22:40:06'),
 (17,'Albreto','eto','425099d1514a4084ea2b867c4effff46e8e2eab8baede8ae3b40eed9ddbf51c25b33a1c551d51e174d3593dce87d7a63eab3abc196eed075993bd6735e5e9893','2021-05-11 23:25:07','2021-05-11 23:25:07'),
 (18,'eto','baru','c4940699a10a7089b8a4fdd8bea7c5d90b5f49577e482128198e5735c8a3a84a4f18e91a8fb1f4d0c19e26811d22cf719a1086ba82292dfe7a6aafa6147ae803','2021-05-11 23:34:45','2021-05-11 23:34:45');
 
