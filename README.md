@@ -4,8 +4,8 @@ NIM : 193020503028
 
 # Usage
 * Level Admin :\
-user : admin
-pass : admin
+user : admin\
+pass : admin\
 
 * Level User :\
 user : eto\
